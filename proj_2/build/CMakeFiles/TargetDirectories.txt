@@ -1,0 +1,8 @@
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/main.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/SIGMA.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/edit_cache.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/rebuild_cache.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/list_install_components.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/install.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/install/local.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/bach_task_sigma/build/CMakeFiles/install/strip.dir
