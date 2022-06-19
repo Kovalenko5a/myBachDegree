@@ -47,7 +47,7 @@ EDPrimaryGeneratorAction::EDPrimaryGeneratorAction()
   G4int nofParticles = 1;
   fParticleGun  = new G4ParticleGun(nofParticles);
     G4ParticleDefinition *particle = G4Gamma::Definition();
-  G4ThreeVector pos(0., 0., -100.);
+  G4ThreeVector pos(0., 0., -400.);
   G4ThreeVector mom(0., 0., 1.);
   // fParticleGun->SetNumberOfParticles(100);
   fParticleGun->SetParticlePosition(pos);

@@ -15,6 +15,8 @@ void MyRunAction::BeginOfRunAction(const G4Run*)
     man->CreateNtupleDColumn("KinEnergy");
     man->CreateNtupleIColumn("TrID");
     man->CreateNtupleIColumn("EvID");
+    man->CreateNtupleIColumn("PrID");
+    man->CreateNtupleDColumn("trackLength");
     man->FinishNtuple(); 
     
     
@@ -23,12 +25,16 @@ void MyRunAction::BeginOfRunAction(const G4Run*)
     man->CreateNtupleDColumn("KinEnergy");
     man->CreateNtupleIColumn("TrID");
     man->CreateNtupleIColumn("EvID");
+    man->CreateNtupleIColumn("PrID");
+    man->CreateNtupleDColumn("trackLength");
     man->FinishNtuple();  
 
     man->CreateNtuple("HitsA","HitsA");
     man->CreateNtupleDColumn("KinEnergy");
     man->CreateNtupleIColumn("TrID");
     man->CreateNtupleIColumn("EvID");
+    man->CreateNtupleIColumn("PrID");
+    man->CreateNtupleDColumn("trackLength");
     man->FinishNtuple();
 
 

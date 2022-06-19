@@ -1,0 +1,8 @@
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/main.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/SIGMA.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/edit_cache.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/rebuild_cache.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/list_install_components.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/install.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/install/local.dir
+/home/yantuzemec/Documents/knu/4kurs/geant4_besh/geant_code_bachelor/myBachDegree/proj_1/build1/CMakeFiles/install/strip.dir
